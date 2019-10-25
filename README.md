@@ -2,4 +2,4 @@
 bootstrap网页
 
 
-关于一个学习bootstrap适应式网页
+这是一个使用bootstrap框架写的页面
